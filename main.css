@@ -1,0 +1,9 @@
+.main{
+	margin= auto;
+	width= 600px;
+}
+
+.container{
+	position: relative;
+	width: 100%;
+}
